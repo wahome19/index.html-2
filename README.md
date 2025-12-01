@@ -1,5 +1,7 @@
 <html><head>HTML PROJECT</head><body bgcolor="blue" font="algerian" text="yellow">
-    <img src="IMG_20250720_221007_066.jpg" length="100" width="100">
+  
+<img src="IMG_20250720_221007_066.jpg" length="100" width="100">
+    
    <b><u> CURRICULUM VITAE</u></b></br>
 
 <p>Name:Happy Wahome</br>
