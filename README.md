@@ -4,8 +4,8 @@
     
    <b><u> CURRICULUM VITAE</u></b></br>
 
-<p>Name:Happy Wahome</br>
-DOB: May 21 2006</br>
+<p>Name:Happy Wahome<br/>
+DOB: May 21 2006<br/>
 Sex: Male</br>
 Age: 19</br>
 Nationality:Kenyan</br>
