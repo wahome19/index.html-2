@@ -1,6 +1,6 @@
-<html><head>HTML PROJECT</head><body bgcolor="blue" font="algerian" text="yellow">
+<html><head><title>HTML PROJECT</title></head><body bgcolor="blue" font="algerian" text="yellow">
   
-<img src="IMG_20250720_221007_066.jpg" length="100" width="100"><br/>
+<img src="IMG_20250720_221007_066.jpg" length="50" width="50"><br/>
     
    <p><b><u> CURRICULUM VITAE</u></b></p><br/>
 
