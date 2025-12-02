@@ -1,8 +1,8 @@
 <html><head>HTML PROJECT</head><body bgcolor="blue" font="algerian" text="yellow">
   
-<img src="IMG_20250720_221007_066.jpg" length="100" width="100">
+<img src="IMG_20250720_221007_066.jpg" length="100" width="100"><br/>
     
-   <b><u> CURRICULUM VITAE</u></b><br/>
+   <p><b><u> CURRICULUM VITAE</u></b></p><br/>
 
 <p>Name:Happy Wahome<br/>
 DOB: May 21 2006<br/>
