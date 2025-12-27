@@ -3,7 +3,7 @@
 <img src="IMG_20250720_221007_066.jpg" length="50" width="50"><br/>
     
    <p><b><u> CURRICULUM VITAE</u></b></p><br/>
-<b><font face="algerian">
+<b><font face="Georgia">
 <p>Name:Happy Wahome<br/>
 DOB: May 21 2006<br/>
 Sex: Male<br/>
