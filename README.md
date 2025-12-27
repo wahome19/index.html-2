@@ -1,6 +1,5 @@
 <b><font face="algerian">
 <br>HTML PROJECT</b><br/>
- <b> <body bgcolor="blue" font="algerian" text="yellow">
 <img src="IMG_20250720_221007_066.jpg" length="50" width="50"><br/>
     
    <p><b><u><br> CURRICULUM VITAE</u></b></p><br/>
@@ -36,4 +35,3 @@ Phone number:0778014631<br/><p/><b/>
 <td>Have a family and get married.</td>
 </tr> 
 </table>
-<b/>
