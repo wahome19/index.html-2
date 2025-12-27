@@ -10,7 +10,7 @@ Sex: Male<br/>
 Age: 19<br/>
 Nationality:Kenyan<br/>
 Religion:Christian</br>
-Phone number:0778014631<br/></p>
+Phone number:0778014631<br/><p/>
 
 <hr/><FONT FACE="ALGERIAN" COLOUR="YELLOW">ABOUT ME.<br/><p><Font face="Georgia" colour="black">My name is Happy Wahome,a student at Meru University of Science and Technology pursuing Bachelors in Information Technology.<b>My home place is Kennol in Muranga county.<b/>In Information Technology my area of interest is in cyber security.<br/>My hobby is playing football as it keeps me physicaly fit and helps my body relax.<hr/><FONT FACE="ALGERIAN" COLOUR="YELLOW">MY SKILLS.<br/><p><Font face="Georgia" colour="black">Being a student pursuing a course in<b> Information Technology</b> I have been able to specialize in some programming languages such as;<i> C,C++,PYTHON AND JAVASCRIPT.</i><br/>I have also been equiped with skills in HTML which am also good at.<br/><FONT FACE="ALGERIAN" COLOUR="BLUE"><hr/> WHAT I WOULD LIKE TO ACCOMPOLISH IN LIFE<br/><p></p><Font face="Georgia" colour="black">
   <table border="2">
