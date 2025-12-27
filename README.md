@@ -1,4 +1,4 @@
-<br><html><head><title>HTML PROJECT</title></head><br/>
+<br><html><head><br><title>HTML PROJECT<br/></title></head>
   <body bgcolor="blue" font="algerian" text="yellow">
   
 <img src="IMG_20250720_221007_066.jpg" length="50" width="50"><br/>
